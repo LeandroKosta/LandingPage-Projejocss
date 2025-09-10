@@ -69,8 +69,3 @@ O site foi projetado para se adaptar em:
 - Grande (LG): 992px – 1199px
 - Extra Grande (XL): ≥1200px
 
-🚀 Como Executar
-Baixe ou clone o repositório:
-git clone https://github.com/seu-usuario/projeto-landing-page.git
-
-Abra o arquivo index.html no navegador.
