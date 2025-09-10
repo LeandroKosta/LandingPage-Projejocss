@@ -69,4 +69,4 @@ O site foi projetado para se adaptar em:
 - Grande (LG): 992px – 1199px
 - Extra Grande (XL): ≥1200px
 
-ACESSE O PROJETO: https://leandrokosta.github.io/LandingPage-Projejocss/
+ACESSE O PROJETO: https://leandrokosta.github.io/LandingPage-ProjejoCss/
